@@ -5,11 +5,11 @@ using TMPro;
 
 public class NetworkUIControl : MonoBehaviour
 {
-    [SerializeField] private Button m_StartHostButton;
+    [SerializeField] private GameObject m_StartHostButton;
 
-    [SerializeField] private Button m_StartClientButton;
+    [SerializeField] private GameObject m_StartClientButton;
 
-    [SerializeField] private Button m_ShutdownButton;
+    [SerializeField] private GameObject m_ShutdownButton;
 
     [SerializeField] private TMP_Text m_NetworkStatusText;
 

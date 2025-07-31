@@ -7,10 +7,16 @@
         "org.realitydeslab"
       ],
       "overrideBuiltIns": true
+    },
+    {
+      "name": "Keijiro",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.keijiro"
+      ]
     }
   ],
   "dependencies": {
-    "org.realitydeslab.netcode.transport.multipeer-connectivity": "1.2.0",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.feature.development": "1.0.2",
     "com.unity.multiplayer.center": "1.0.0",
@@ -26,6 +32,8 @@
     "com.veriorpies.parrelsync": "https://github.com/VeriorPies/ParrelSync.git?path=/ParrelSync",
     "com.yuchen.ingame-console": "https://github.com/yuchenz27/unity-ingame-console.git",
     "io.holokit.image-tracking-relocalization": "https://github.com/holoi/com.holoi.xr.image-tracking-relocalization.git",
+    "jp.keijiro.osc-jack": "2.0.0",
+    "org.realitydeslab.netcode.transport.multipeer-connectivity": "1.2.0",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
